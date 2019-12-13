@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "837295194829",
+    "firebase_url": "https://quizupapp-cbecf.firebaseio.com",
+    "project_id": "quizupapp-cbecf",
+    "storage_bucket": "quizupapp-cbecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837295194829:android:f110ffa4774f4f2e",
+        "android_client_info": {
+          "package_name": "com.example.abhineetchaudhary.quizup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837295194829-ufb6iu9uhonec1bdb4nq5jp84h7nt4p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0gQed_t0RYOJDtLWv49ZHVx6p8wS_-WU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
