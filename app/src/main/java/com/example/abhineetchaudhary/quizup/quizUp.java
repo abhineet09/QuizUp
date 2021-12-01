@@ -72,7 +72,7 @@ public class quizUp extends AppCompatActivity{
 
     public void startQuiz(int categoryIndex){
 
-        Log.i("info","at quiz start");
+        Log.i("info  ","at quiz start");
 
         qPhraseView = (TextView)findViewById(R.id.qPhraseView);
         ansBtn1 = (Button)findViewById(R.id.ansBtn1);
