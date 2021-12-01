@@ -57,7 +57,7 @@ public class quizUp extends AppCompatActivity{
         if(mediaPlayer.isPlaying()){
             setVolumeBtn.setText("TURN ON VOLUME");
             playCount=1;
-            sharedPreferences.edit().putString("playCount",String.valueOf(playCount)).apply();
+            sharedPreferences.edit().putString("playCount ",String.valueOf(playCount)).apply();
             mediaPlayer.stop();
         }
         else{
