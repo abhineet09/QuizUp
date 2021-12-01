@@ -42,7 +42,7 @@ public class leaderBoard extends AppCompatActivity{
         setContentView(R.layout.leaderboard);
 
         sharedPreferences = this.getSharedPreferences("com.example.abhineetchaudhary.quizup", Context.MODE_PRIVATE);
-        userNameStr = sharedPreferences.getString("userName","None");
+        userNameStr = sharedPreferences.getString("userName-xyz","None");
         Log.i("info",userNameStr);
 
         final appController leaderApp = new appController();
